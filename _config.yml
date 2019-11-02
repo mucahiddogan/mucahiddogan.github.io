@@ -1,14 +1,14 @@
 # Site settings
 title: "md"
 bye_message: "Thx!"
-baseurl: ""
+baseurl: "/"
 url: "https://mucahiddogan.github.io"
 disqus:
 
 # Header settings
 nick: "md"
 mail:
-    domain: "icloud"
+    domain: "protonmail"
     ext: "com"
 source_code:
     server: "github.com"
