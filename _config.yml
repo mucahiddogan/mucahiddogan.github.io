@@ -1,9 +1,9 @@
 # Site settings
 title: "md"
 bye_message: "Thx!"
-baseurl: "/"
+baseurl: "/" #<----bug
 url: "https://mucahiddogan.github.io"
-disqus:
+disqus: mucahiddogan
 
 # Header settings
 nick: "md"

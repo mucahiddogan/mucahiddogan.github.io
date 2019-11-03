@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: page
 title: "whois"
 permalink: /whois/
 ---
