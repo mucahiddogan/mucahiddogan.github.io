@@ -1,7 +1,7 @@
 # Site settings
 title: "md"
 bye_message: "Thx!"
-baseurl: "https://mucahiddogan.github.io"
+baseurl: "/"
 url: "https://mucahiddogan.github.io"
 disqus:
 
