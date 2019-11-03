@@ -1,10 +1,10 @@
 ---
 layout: content
+title: "hi!"
 ---
 
+#### just a human
+If you wonder who the hell i am, just go to the <a href="{{site.baseurl}}whois/">whois</a> page. I wrote some things for you. If you wanna read about some technical or non technical blog posts then go to the <a href="{{site.baseurl}}blog/">blog</a> page. My presentations are in <a href="{{site.baseurl}}pres">presentations</a> page. 
 
-### About
-
-It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's has some appearance like a linux console. :)
-
-[Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
+<br>
+<span class="string">"3nj0y_th3_l1f3!"</span> 
