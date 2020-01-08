@@ -3,7 +3,6 @@ layout: page
 title: "whois"
 permalink: /whois/
 ---
-<p><img src="/images/main.jpg" alt="Me with a box head" style="width: 30%; float: right"></p>
 * Hûman
 * Computer Engineering Student <a href="https://ktu.edu.tr" target="_blank">@ktu</a>
 * Cyber Security Enthusiast

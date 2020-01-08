@@ -7,6 +7,7 @@ permalink: /blog/
 <a class="wannartclass" href="https://wannart.com/author/md" target="_blank"> @wannart&#x2665; </a> <br class="aclass">
 <a class="wannartclass" href="https://medium.com/mucahiddogan_" target="_blank"> @medium </a>
 
+<br>
 * <a href="https://www.wannart.com/?p=170389" target="_blank"> Koca Yaşlı Şişko </a>
 * <a href="https://medium.com/@mucahiddogan_/belki-de-her-şeye-yeniden-8398c6fc3796" target="_blank"> Belki de her şeye yeniden </a>
 * <a href="https://medium.com/@mucahiddogan_/İyi-kodladık-kodla17-17d9f735aec2" target="_blank"> İyi kodla dık #kodla17 </a>
