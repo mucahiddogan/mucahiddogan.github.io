@@ -14,5 +14,5 @@ permalink: /whois/
 * Photographer <a              href="https://vsco.co/mucahiddogann" target="_blank">@vsco</a>
 * <a href="https://open.spotify.com/user/6lcy5a0gtp3kgm03b5aix3du4?si=5Zvj6IUJStmfFjfp_PMXzA"               target="_blank">@spotify</a>
 * Professional Gamer <a href="https://steamcommunity.com/id/mucahiddogan" target="_blank">@steam</a>
-* Space and a Psychology Enthusiast <font size="5px" color="#dcdc00">&#9734;</font>
+* Space and a Psychology Enthusiast <font size="5px" color="#dcdc00">&#9752;</font>
 

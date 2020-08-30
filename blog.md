@@ -4,7 +4,7 @@ title: "blog"
 permalink: /blog/
 ---
 
-<a class="wannartclass" href="https://wannart.com/author/md" target="_blank"> @wannart&#x2665; </a> <br class="aclass">
+<a class="wannartclass" href="https://wannart.com/author/md" target="_blank"> @wannart &#x2665; </a> <br class="aclass">
 <a class="wannartclass" href="https://medium.com/mucahiddogan_" target="_blank"> @medium </a>
 
 <br>
