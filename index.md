@@ -8,4 +8,4 @@ If you wonder who the hell i am, just go to the <a href="{{site.baseurl}}whois/"
 <br>
 <p>wanna duel? <a href="https://lichess.org/@/Wexess" target="_blank">lichess</a></p>
 <br>
-<span class="string">"3nj0y_th3_l1f3!"</span> 
+<span class="string">"3nj0y_th3_l1f3!"</span><!--f*ck 1t :)--> 
