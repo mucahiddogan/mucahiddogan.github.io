@@ -8,7 +8,7 @@ permalink: /whois/
 * Cyber Security Enthusiast
 * Team Lead <a href="https://ktusec.org" target="_blank">@ktusec</a>
 * Developer of Some Things
-* Organizer <a href="https://djangogirls.org/trabzon" target="_blank">@djangogirls</a>
+* Organizer <a href="https://djangogirls.org/trabzon1" target="_blank">@djangogirls</a>
 * Thinker (over)
 * Author <a href="https://wannart.com/author/md" target="_blank">@wannartcom</a>
 * Photographer <a href="https://vsco.co/mucahiddogann" target="_blank">@vsco</a>
